@@ -3,6 +3,7 @@
 ## 使用
 命令行下
 python install -r requirements.txt
+
 python moive_search.py
 
 ## 打包
